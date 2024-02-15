@@ -4,10 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffc000&size=35&center=true&vCenter=true&width=1000&lines=Ola,+meu+nome+é+Gabriel;Tenho+21+anos;Sou+de+São+Paulo;Estudo+Analise+e+desenvolvimento+de+sistema+na+UNIP;Bem-vindo!+:%29)](https://git.io/typing-svg)
 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabrielprofissional&show_icons=true&count_private=true&hide_border=true&title_color=ffc000&icon_color=ffc000&text_color=c9d1d9&bg_color=0d1117"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielprofissional&layout=compact&hide_border=true&title_color=ffc000&text_color=ffc000&bg_color=0d1117" />
-</div>
+
 
 
 
