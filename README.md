@@ -5,16 +5,6 @@
 
 
 
-
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gabrielprofissional&title_color=ffc000&icon_color=ffc000&text_color=ffc000&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-<div align="center">  
-<a href="www.instagram.com/gabrielmerci._/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div>
   
   ### Main skills:
 ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=React&logoColor=white&labelColor=20232A)
