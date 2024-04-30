@@ -6,7 +6,7 @@
 
 Olá, meu nome é Gabriel. Tenho 22 anos, sou de São Paulo e sou formado em desenvolvimento de sistemas pela UNIP.
 
-Espero que goste do meu perfil! 😊
+Espero que goste do meu perfil!😊
 
 
 
