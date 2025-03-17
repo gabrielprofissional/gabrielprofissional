@@ -13,7 +13,6 @@ Olá, meu nome é **Gabriel**. Tenho **23 anos**, sou de **São Paulo** e sou fo
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="ReactJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Express.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
   <img align="center" alt="Prisma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
@@ -27,7 +26,6 @@ Olá, meu nome é **Gabriel**. Tenho **23 anos**, sou de **São Paulo** e sou fo
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&labelColor=0D1117)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&labelColor=0D1117)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&labelColor=0D1117)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&labelColor=0D1117)&nbsp;
 
 ---
 
@@ -53,8 +51,7 @@ Um projeto utilizando **React** no frontend e **Node.js + Express** no backend.
 - **Backend:** Node.js, Express, Prisma, JWT, Bcrypt, Multer, Socket.IO, Helmet, Rate-Limit.
 - **Banco de Dados:** MySQL.
 
-🔗 [Repositório do Projeto](https://github.com/gabrielprofissional/marketplace) 🚀
-
+📫 **Vamos conversar?** Me envie um e-mail em [dev.gabrielteles@gmail.com]
 ---
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=footer"/>
