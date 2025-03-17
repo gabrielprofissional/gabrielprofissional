@@ -2,7 +2,7 @@
 
 # 👋 Bem-vindo!
 
-Olá, meu nome é **Gabriel**. Tenho **23 anos**, sou de **São Paulo** e sou formado em **Análise e Desenvolvimento de Sistemas** pela UNIP.
+Olá, meu nome é **Gabriel**. Tenho **24 anos**, sou de **São Paulo** e sou formado em **Análise e Desenvolvimento de Sistemas**
 
 ---
 
